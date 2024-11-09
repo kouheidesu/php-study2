@@ -1,0 +1,7 @@
+{
+    "name": "kouheidesu/php-study2",
+    "description": "A simple PHP app for Heroku deployment",
+    "require": {
+        "php": "^7.4 || ^8.0"
+    }
+}
